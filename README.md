@@ -1,4 +1,3 @@
-# GeetaNegi-GN.github.io
 # Privacy Policy for NotiCatch
 
 Last updated: June 2, 2026
