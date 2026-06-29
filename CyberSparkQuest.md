@@ -1,98 +1,118 @@
-Privacy Policy
+# Privacy Policy
 
-CyberSpark Quest
+**CyberSpark Quest**
 
-Effective Date: June 13, 2026
+**Effective Date:** June 29, 2026
+
+## Introduction
 
 CyberSpark Quest ("we", "our", or "the app") respects your privacy. This Privacy Policy explains how information is handled when you use our educational game.
 
-CyberSpark Quest is designed to help children learn through interactive activities including coding logic puzzles, math challenges, and computer learning games.
+CyberSpark Quest is an educational game designed to help children develop coding, logic, mathematics, creativity, cybersecurity awareness, and problem-solving skills through interactive gameplay.
 
-Information We Collect
+---
 
-CyberSpark Quest does not collect personal information directly from users.
+## Information We Collect
 
-We do not ask for:
+CyberSpark Quest does not require users to create an account and does not directly collect personal information such as:
 
-Name
-Email address
-Phone number
-Location
-Photos
-Contacts
-Children's Privacy
+* Name
+* Email address
+* Phone number
+* Home address
+* Contacts
+* Photos
 
-CyberSpark Quest is designed for children and families.
+---
+
+## Children's Privacy
+
+CyberSpark Quest is designed for children ages 6–12 and complies with Google Play Families policies.
 
 We do not knowingly collect personal information from children.
 
-The app content is created to provide a safe learning experience for kids.
+Parents or guardians who have questions about this Privacy Policy may contact us using the email address below.
 
-Parents or guardians who have questions may contact us using the email provided below.
+---
 
-Game Progress Data
+## Game Progress
 
-CyberSpark Quest stores game progress locally on your device, such as:
+The app stores gameplay information locally on your device, including:
 
-Completed levels
-Coins earned in the game
-Selected avatar
+* Completed levels
+* Coins earned
+* Selected avatar
+* Game progress and achievements
 
-This information stays on your device and is not sent to our servers.
+This information remains on your device and is not transmitted to our servers.
 
-Advertising
+---
 
-CyberSpark Quest may display child-friendly advertisements in future versions.
+## Advertising
 
-If advertisements are enabled, we may use:
+CyberSpark Quest uses **Google AdMob** to display family-appropriate advertisements.
 
-Google AdMob
+We configure advertising to support child-directed treatment where applicable and request non-personalized advertisements when appropriate.
 
-Ad providers may collect limited information required to show safe and appropriate ads according to their own privacy policies.
+Google and its advertising services may collect limited device information required to serve advertisements in accordance with their own privacy policies.
 
-We configure advertisements to be suitable for children where required.
+Learn more:
 
-Google Privacy Policy:
 https://policies.google.com/privacy
 
-Third-Party Services
+---
 
-CyberSpark Quest may use trusted third-party services:
+## Third-Party Services
 
-Google Play Services
-Google AdMob (if enabled)
+CyberSpark Quest may use the following third-party services:
+
+* Google Play Services
+* Google AdMob
 
 These services may collect information according to their own privacy policies.
 
-Internet Permission
+---
 
-Some features may require an internet connection, such as:
+## Internet Connection
 
-Loading advertisements
-App improvements
+An internet connection may be required for:
 
-The main learning gameplay works without requiring an account.
+* Loading advertisements
+* Accessing Google Play Services
+* Receiving future app updates
 
-Data Sharing
+The core educational gameplay works without requiring a user account.
 
-We do not sell, trade, or share personal information.
+---
 
-Security
+## Data Sharing
 
-We try to protect users by avoiding unnecessary data collection.
+We do not sell or rent personal information.
 
-No method of electronic storage or transmission is completely secure, but we work to keep the app safe.
+Information collected by third-party services is governed by their respective privacy policies.
 
-Changes to This Policy
+---
 
-We may update this Privacy Policy when the app changes.
+## Security
 
-Updates will be posted with a new effective date.
+We strive to minimize data collection and implement reasonable measures to help protect user information.
 
-Contact Us
+However, no method of electronic storage or transmission over the internet is completely secure.
 
-If you have questions about this Privacy Policy, contact:
+---
 
-Developer: Tushar Negi
+## Changes to This Privacy Policy
 
-Email: thesilentwalker1@gmail.com
+We may update this Privacy Policy from time to time.
+
+Any updates will be posted on this page with a revised effective date.
+
+---
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact:
+
+**Developer:** Geeta Negi
+
+**Email:** [geetanegi550@gmail.com](mailto:geetanegi550@gmail.com)
