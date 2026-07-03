@@ -84,6 +84,6 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have any questions about this Privacy Policy, you can contact us at:
 
-**Email:** [your-email@example.com](mailto:your-email@example.com)
+**Email:** [geetanegi550@gmail.com](mailto:geetanegi550@gmail.com)
 
 Thank you for playing Magnet Master!
