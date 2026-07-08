@@ -1,118 +1,92 @@
-# Privacy Policy
+Privacy Policy
 
-**CyberSpark Quest**
+CyberSpark Quest
 
-**Effective Date:** June 29, 2026
+Effective Date: July 8, 2026
 
-## Introduction
+Introduction
 
 CyberSpark Quest ("we", "our", or "the app") respects your privacy. This Privacy Policy explains how information is handled when you use our educational game.
 
-CyberSpark Quest is an educational game designed to help children develop coding, logic, mathematics, creativity, cybersecurity awareness, and problem-solving skills through interactive gameplay.
+CyberSpark Quest is an educational game designed for students and beginners to build coding, logic, mathematics, computer hardware, cybersecurity, debugging, and problem-solving skills through interactive gameplay.
 
----
-
-## Information We Collect
+Information We Collect
 
 CyberSpark Quest does not require users to create an account and does not directly collect personal information such as:
 
-* Name
-* Email address
-* Phone number
-* Home address
-* Contacts
-* Photos
-
----
-
-## Children's Privacy
-
-CyberSpark Quest is designed for children ages 6–12 and complies with Google Play Families policies.
-
-We do not knowingly collect personal information from children.
-
-Parents or guardians who have questions about this Privacy Policy may contact us using the email address below.
-
----
-
-## Game Progress
+Name
+Email address
+Phone number
+Home address
+Contacts
+Photos
+Game Progress
 
 The app stores gameplay information locally on your device, including:
 
-* Completed levels
-* Coins earned
-* Selected avatar
-* Game progress and achievements
+Completed levels
+Coins earned
+Selected avatar
+Game progress and achievements
 
 This information remains on your device and is not transmitted to our servers.
 
----
+Advertising
 
-## Advertising
+CyberSpark Quest uses Google AdMob to display advertisements.
 
-CyberSpark Quest uses **Google AdMob** to display family-appropriate advertisements.
-
-We configure advertising to support child-directed treatment where applicable and request non-personalized advertisements when appropriate.
-
-Google and its advertising services may collect limited device information required to serve advertisements in accordance with their own privacy policies.
+Advertisements are provided by Google AdMob and may collect limited device information as described in Google's Privacy Policy.
 
 Learn more:
 
 https://policies.google.com/privacy
 
----
-
-## Third-Party Services
+Third-Party Services
 
 CyberSpark Quest may use the following third-party services:
 
-* Google Play Services
-* Google AdMob
+Google Play Services
+Google AdMob
 
 These services may collect information according to their own privacy policies.
 
----
-
-## Internet Connection
+Internet Connection
 
 An internet connection may be required for:
 
-* Loading advertisements
-* Accessing Google Play Services
-* Receiving future app updates
+Loading advertisements
+Accessing Google Play Services
+Receiving future app updates
 
-The core educational gameplay works without requiring a user account.
+Core gameplay is available without creating a user account.
 
----
+Data Sharing
 
-## Data Sharing
-
-We do not sell or rent personal information.
+We do not sell, rent, or share your personal information.
 
 Information collected by third-party services is governed by their respective privacy policies.
 
----
-
-## Security
+Security
 
 We strive to minimize data collection and implement reasonable measures to help protect user information.
 
-However, no method of electronic storage or transmission over the internet is completely secure.
+However, no method of electronic storage or transmission over the Internet is completely secure.
 
----
-
-## Changes to This Privacy Policy
+Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time.
 
-Any updates will be posted on this page with a revised effective date.
+Any changes will be posted on this page with an updated effective date.
 
----
-
-## Contact Us
+Contact Us
 
 If you have any questions about this Privacy Policy, please contact:
 
-**Developer:** Geeta Negi
+Developer: Geeta Negi
 
-**Email:** [geetanegi550@gmail.com](mailto:geetanegi550@gmail.com)
+Email: geetanegi550@gmail.com
+
+
+
+
+
